@@ -4,6 +4,7 @@
 
 💡 Focus: Turning raw data into **actionable strategies that increase revenue and retention**
 
+💰 This project identifies data-driven strategies that can increase café revenue by 10–20% through better product focus, pricing, and customer targeting.
 ---
 
 
