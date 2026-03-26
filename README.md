@@ -1,10 +1,19 @@
-# ☕ Café Sales Analysis — Full Project
+# ☕ Cafe Sales Analytics — Revenue Growth Case Study
 
-**Delivered by:** Senior Data Analyst  
-**Date:** 2025  
-**Dataset:** `raw_data.csv` — 10,000 café sales transactions
+🚀 An end-to-end business analytics project analyzing 10,000+ transactions to identify revenue drivers, customer behavior, and growth opportunities.
+
+💡 Focus: Turning raw data into **actionable strategies that increase revenue and retention**
 
 ---
+
+
+## 📊 Project Preview
+
+![Impact Matrix](fig_impact_effort_matrix.png)
+
+![Product Performance](fig_product_performance.png)
+
+![Location Analysis](fig_insight2_location.png)
 
 ## 📁 Project Structure
 
@@ -106,6 +115,19 @@ Install with: `pip install pandas numpy matplotlib seaborn`
 
 ---
 
+## 💼 Work With Me
+
+I help businesses turn their data into revenue-driving insights.
+
+If you have:
+- Sales data
+- Customer data
+- Business performance issues
+
+I can deliver:
+✔ Data cleaning & analysis  
+✔ Business insights  
+✔ Growth strategies  
 
 ## 📬 Contact
 
