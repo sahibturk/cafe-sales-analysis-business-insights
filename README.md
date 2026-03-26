@@ -22,6 +22,30 @@ cafe_analysis/
 
 ---
 
+## 💰 Business Impact
+
+This analysis identifies opportunities to:
+
+- Increase Average Order Value (AOV) by 8–15%
+- Improve customer retention by 15–25%
+- Boost seasonal revenue (Q1) by up to 20%
+- Enhance decision-making through improved data quality
+
+This project demonstrates how data can directly drive revenue growth.
+
+
+
+## 🎯 Who This Project Is For
+
+- Café / Restaurant Owners
+- Small Business Owners
+- Data-driven decision makers
+- Freelance analytics clients
+
+If you have sales data, similar insights can be generated for your business.
+
+
+
 ## 🚀 How to Run
 
 1. Place `raw_data.csv` in the same folder as the notebooks
@@ -82,4 +106,12 @@ Install with: `pip install pandas numpy matplotlib seaborn`
 
 ---
 
-*Analysis produced using the Turk Analyst framework — 2026 Standard.*
+
+## 📬 Contact
+
+If you want a similar analysis for your business:
+
+📧 Email: mohdsahibraza8@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/mohdsahibraza
+
+*Mohd Sahib Raza - Data Analyst*
